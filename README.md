@@ -48,12 +48,13 @@ Here are some of my cool projects:
 ### 3. [Project 3 - Heart Disease Predict](https://github.com/CoppiRafael/heart_disease)
 
 
-### 4. [Project 4 - Cluster](hhttps://github.com/CoppiRafael/Cluster_Eletric)
+### 4. [Project 4 - Cluster](https://github.com/CoppiRafael/Cluster_Eletric)
 
 
 ## Top Repositories
 
 These are the repositories I've worked on the most:
+
 ![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=CoppiRafael&repo=Cluster_Eletric)
 
 ![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=CoppiRafael&repo=heart_disease)
@@ -83,6 +84,13 @@ You can follow me on my other profiles:
 - [Instagram](https://www.instagram.com/rafaellcoppi/)
 
 - [📫 Email](richcoppirafael@outlook.com)
+    - richcoppirafael@outlook.com
+
+---
+
+> *Feel free to explore my repositories and let's collaborate!* 🚀
+
+
     - richcoppirafael@outlook.com
 
 ---
